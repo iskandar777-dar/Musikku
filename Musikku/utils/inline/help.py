@@ -14,7 +14,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from Musikku import app
 
 
-def help_pannel(): )
+def help_pannel(): ()
 
-def help_back_markup(): )
-def private_help_panel(): )
+def help_back_markup(): ()
+def private_help_panel(): ()
