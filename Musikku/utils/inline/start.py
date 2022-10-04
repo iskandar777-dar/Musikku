@@ -14,7 +14,7 @@ from pyrogram.types import InlineKeyboardButton
 from config import GITHUB_REPO, SUPPORT_CHANNEL, SUPPORT_GROUP
 from Musikku import app
 
-def start_pannel(): )
+def start_pannel(): ()
 
 
-def private_panel(): )
+def private_panel(): ()
